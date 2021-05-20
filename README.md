@@ -1,5 +1,10 @@
 # login
-#This is the login page
+This is the login page
+
+
+
+
+
 function validate()
 {
     var username = document.getElementById("username").value;
